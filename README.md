@@ -1,2 +1,2 @@
 # IAySExpertos
-Repositorio de la Asignatura IA y Sistemas Expertos USB
+Repositorio de la Asignatura Inteligencia Computacional La Salle
